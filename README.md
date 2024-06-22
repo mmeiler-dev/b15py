@@ -1,2 +1,2 @@
 # b15py
-Ein Python Module zum schreiben von B15F code in Python
+Ein Python Modul, um für das B15F-Board Programme zu schreiben
