@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-setup.py
-b15fpy/__init__.py
-b15fpy/b15fpy.so
-b15fpy.egg-info/PKG-INFO
-b15fpy.egg-info/SOURCES.txt
-b15fpy.egg-info/dependency_links.txt
-b15fpy.egg-info/top_level.txt
