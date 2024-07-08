@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -flto -shared  -o b15py.cpython-311-x86_64-linux-gnu.so CMakeFiles/b15py.dir/src/main.cpp.o  -lb15fdrv
