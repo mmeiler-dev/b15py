@@ -10,7 +10,7 @@ Dies ist ein Python Module für den B15F-Treiber.
 
 ## Installation
 
-`pip install b15f`
+`pip install b15py`
 oder
 ```bash
 git clone https://www.github.com/mmeiler-dev/b15py
