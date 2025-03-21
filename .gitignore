@@ -1,0 +1,5 @@
+./__pycache__/
+./b15py/__pycache__/
+./b15py.egg-info/
+./build/
+./dist/
