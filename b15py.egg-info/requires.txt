@@ -1,2 +1,0 @@
-pyserial>=3.5
-typeguard>=4.4.1
