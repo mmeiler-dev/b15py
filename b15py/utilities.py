@@ -4,6 +4,9 @@ import platform
 
 OK: int = 0xFF
 
+class B15FError(Exception):
+    pass
+
 def info(message: str):
     print(f"[\x1b[32m\x1b[1mINFO\x1b[0m] {message}")
 

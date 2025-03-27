@@ -22,7 +22,7 @@ class B15F:
         except:
             if len(get_devices()) == 0:
                 hint_error("Failed to find adapter for B15F!", "Is the USB connected properly? (Connection left to right: RX TX GN)")
-            
+
     def discard(self):
         try:
             self.__port.reset_output_buffer()
@@ -33,7 +33,6 @@ class B15F:
             self.__port.reset_input_buffer()
         except:
             error("Discard failed!")
-
 
     def test_connection(self):
         dummy = int.from_bytes(os.urandom(1)) % 256
